@@ -1,0 +1,33 @@
+#image{
+  height:auto;
+  max-width:100%;
+  display:block;
+}
+#img-caption{
+  font-size:25px;
+  font-style:bold;
+  font-family:Trebuchet;
+}
+#tribute-info{
+ padding:10px;
+ margin: 10px 0px;
+ font-size:16px;
+ font-family:Tahoma;
+}
+li{
+ padding:5px 5px;
+ margin-left:40px;
+ margin-right:0px;
+ margin-bottom:2px;
+ font-size:15px;
+ font-style:italic;
+ font-family:Tahoma;
+}
+#tribute-link{
+  color:blue;
+  padding:50px;
+  font-size:20px;
+}
+#tribute-link:hover{
+  color:red;
+}
